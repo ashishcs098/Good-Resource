@@ -1,6 +1,4 @@
 # Good-Resource
-
-stores good resource
 ## Step-by-Step-frontend-career-raodmap
 https://levelup.gitconnected.com/the-step-by-step-frontend-developer-career-roadmap-100-free-e8a539d6f5a2
 
